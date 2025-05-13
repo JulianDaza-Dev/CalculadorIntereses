@@ -10,7 +10,7 @@ La aplicación permite ingresar el monto inicial y el periodo de tiempo, para ob
 
 - [✔] **React** (Vite)
 - [✔] JavaScript (ES6+)
-- [✔] Tailwind
+- [✔] Tailwind CSS
 
 ---
 
