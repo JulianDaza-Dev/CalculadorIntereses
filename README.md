@@ -16,4 +16,4 @@ La aplicación permite ingresar el monto inicial y el periodo de tiempo, para ob
 
 ## 📂 Link del proyecto
 
-- Calculadora de intereses simple - [Ver]([https://glistening-babka-ab771e.netlify.app/](https://cotizador-intereses.netlify.app/))
+- Calculadora de intereses simple - [Ver](https://cotizador-intereses.netlify.app/)
