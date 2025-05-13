@@ -1,12 +1,19 @@
-# React + Vite
+# 📊 Calculadora de Intereses
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una **calculadora de intereses simples y compuestos** desarrollada con **React**, como parte de mi portafolio personal. El objetivo fue practicar el manejo de **estados, componentes funcionales y props**, así como fortalecer mi comprensión de los principios de React para construir interfaces interactivas y reutilizables.
 
-Currently, two official plugins are available:
+La aplicación permite ingresar el monto inicial y el periodo de tiempo, para obtener el cálculo de forma inmediata y visual.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologías utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [✔] **React** (Vite)
+- [✔] JavaScript (ES6+)
+- [✔] Tailwind
+
+---
+
+## 📂 Link del proyecto
+
+- Calcualdora de intereses simple - [Ver](https://glistening-babka-ab771e.netlify.app/)
